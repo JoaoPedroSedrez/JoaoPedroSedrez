@@ -6,10 +6,14 @@
 
 ## 📖 Sobre mim
 
-🎓 **Graduando em Engenharia de Software** – 5º semestre *(Univille, conclusão prevista em 2028)*
+🎓 **Graduando em Engenharia de Software** – 5º semestre *(Univille, conclusão prevista em 2028)* 
+
 🌍 **Inglês avançado** – foco em prática e comunicação real
+
 🐧 **Usuário de Linux**, entusiasta de ambientes de desenvolvimento bem estruturados
+
 ⚡ Foco em desenvolvimento back-end com **Node.js**, **NestJS** e **TypeScript**, e front-end com **React**
+
 📚 Sempre em busca de aprender mais sobre boas práticas de código, clean code e arquitetura de software
 
 ---
