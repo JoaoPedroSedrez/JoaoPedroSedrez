@@ -1,12 +1,11 @@
 # 👋 Hey, I'm João Pedro Sedrez
 
-💻 **Junior Fullstack Developer at PX.center** • 🎓 **Software Engineering Student** • 🚀 **Passionate about technology and innovative solutions**
-
+💻 **Software Engineer | Fullstack Developer at PX.center** • 🎓 **Software Engineering Student** • 🎮 **Building software between game sessions**
 ---
 
 ## 📖 About Me
 
-🎓 **Software Engineering Undergraduate** – 5th semester *(Univille, expected graduation in 2028)*  
+🎓 **Software Engineering Undergraduate** – 6th semester *(Univille, expected graduation in 2028)*  
 
 🌍 **Advanced English** – focused on real-world communication and practice  
 
